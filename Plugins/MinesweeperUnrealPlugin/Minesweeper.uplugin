@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Minesweeper",
+	"Description": "This is a classic unreal plugin game Minesweeper~",
+	"Category": "Other",
+	"CreatedBy": "Tony Zeng",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.2",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Minesweeper",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
